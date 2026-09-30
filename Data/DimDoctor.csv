@@ -1,0 +1,51 @@
+DoctorID,DoctorName,Specialty,ExperienceYears
+D001,Dr 1,Neurology,6
+D002,Dr 2,Cardiology,20
+D003,Dr 3,Radiology,21
+D004,Dr 4,ICU,15
+D005,Dr 5,Pediatrics,25
+D006,Dr 6,Orthopedics,20
+D007,Dr 7,General Medicine,15
+D008,Dr 8,Orthopedics,18
+D009,Dr 9,Emergency,25
+D010,Dr 10,Orthopedics,7
+D011,Dr 11,Emergency,14
+D012,Dr 12,Radiology,12
+D013,Dr 13,ICU,27
+D014,Dr 14,Orthopedics,10
+D015,Dr 15,Cardiology,29
+D016,Dr 16,Orthopedics,10
+D017,Dr 17,Pediatrics,9
+D018,Dr 18,General Medicine,24
+D019,Dr 19,Surgery,15
+D020,Dr 20,ICU,5
+D021,Dr 21,Pediatrics,23
+D022,Dr 22,Orthopedics,7
+D023,Dr 23,Surgery,4
+D024,Dr 24,Emergency,19
+D025,Dr 25,Oncology,9
+D026,Dr 26,Cardiology,18
+D027,Dr 27,Cardiology,2
+D028,Dr 28,Radiology,10
+D029,Dr 29,ICU,1
+D030,Dr 30,Emergency,23
+D031,Dr 31,Pediatrics,18
+D032,Dr 32,Neurology,16
+D033,Dr 33,General Medicine,26
+D034,Dr 34,ICU,7
+D035,Dr 35,Cardiology,26
+D036,Dr 36,Pediatrics,29
+D037,Dr 37,Radiology,14
+D038,Dr 38,General Medicine,27
+D039,Dr 39,Surgery,23
+D040,Dr 40,Orthopedics,5
+D041,Dr 41,Neurology,28
+D042,Dr 42,Cardiology,30
+D043,Dr 43,Oncology,6
+D044,Dr 44,Emergency,9
+D045,Dr 45,Emergency,19
+D046,Dr 46,Cardiology,28
+D047,Dr 47,Pediatrics,6
+D048,Dr 48,ICU,13
+D049,Dr 49,Neurology,17
+D050,Dr 50,Orthopedics,27

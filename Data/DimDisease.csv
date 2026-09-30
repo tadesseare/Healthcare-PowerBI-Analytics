@@ -1,0 +1,26 @@
+DiseaseID,DiseaseName,DiseaseCategory
+DI001,Disease 1,Respiratory
+DI002,Disease 2,Neurology
+DI003,Disease 3,Neurology
+DI004,Disease 4,Cardiovascular
+DI005,Disease 5,Oncology
+DI006,Disease 6,Orthopedics
+DI007,Disease 7,Cardiovascular
+DI008,Disease 8,Neurology
+DI009,Disease 9,Neurology
+DI010,Disease 10,Respiratory
+DI011,Disease 11,Respiratory
+DI012,Disease 12,Respiratory
+DI013,Disease 13,Cardiovascular
+DI014,Disease 14,General
+DI015,Disease 15,Respiratory
+DI016,Disease 16,Respiratory
+DI017,Disease 17,Cardiovascular
+DI018,Disease 18,General
+DI019,Disease 19,Oncology
+DI020,Disease 20,Cardiovascular
+DI021,Disease 21,Oncology
+DI022,Disease 22,Respiratory
+DI023,Disease 23,Orthopedics
+DI024,Disease 24,Respiratory
+DI025,Disease 25,Cardiovascular
